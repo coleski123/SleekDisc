@@ -1,0 +1,2 @@
+# SleekDisc
+A BetterDiscord theme
