@@ -4,3 +4,7 @@
  * @description A sleek rounded theme for discord
  * @version 0.0.1
  */
+
+ :root {
+    --background-tertiary: #0004ff;
+}
